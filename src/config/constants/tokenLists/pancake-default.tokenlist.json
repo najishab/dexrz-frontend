@@ -1,0 +1,134 @@
+{
+  "name": "DexRZ List",
+  "timestamp": "2024-02-24T11:45:09Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 3
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Eissaei/token-list/main/lists/images/IMG_20230919_030943522.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+	{
+      "name": "Meta Games Coin",
+      "symbol": "MGC",
+      "address": "0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/token-list/main/lists/images/MGC.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Alpaca",
+      "symbol": "ALPACA",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F.png"
+    },
+ {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+    },
+ {
+      "name": "Cosmos Token",
+      "symbol": "ATOM",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
+    },
+	   {
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
+    },
+	  {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+    },
+	   {
+      "name": "IoTeX",
+      "symbol": "IOTX",
+      "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png"
+    },
+	  {
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+    },
+	  {
+      "name": "TRON",
+      "symbol": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
+    }
+  ]
+}
