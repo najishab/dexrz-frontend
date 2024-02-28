@@ -5,7 +5,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "packageManager": "yarn@1.22.19",
   "scripts": {
     "analyze": "ANALYZE=true yarn build",
     "dev": "next dev",
